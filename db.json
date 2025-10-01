@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1759303210760,
+      "username": "gnanika"
+    },
+    {
+      "id": 1759303686284,
+      "username": "Gnanika"
+    }
+  ],
+  "messages": [
+    {
+      "username": "gnanika",
+      "userId": 1759303210760,
+      "text": "hello",
+      "id": 1759303429981
+    },
+    {
+      "username": "gnanika",
+      "userId": 1759303210760,
+      "text": "😍",
+      "id": 1759303443633
+    },
+    {
+      "username": "gnanika",
+      "userId": 1759303210760,
+      "text": "how are you?",
+      "id": 1759303459253
+    },
+    {
+      "username": "Gnanika",
+      "userId": 1759303686284,
+      "text": "I hope you are doing well 😊",
+      "id": 1759303723816,
+      "timestamp": "2025-10-01T07:28:43.816Z"
+    },
+    {
+      "username": "Gnanika",
+      "userId": 1759303686284,
+      "text": "Have a nice day!!",
+      "id": 1759303746577,
+      "timestamp": "2025-10-01T07:29:06.577Z"
+    }
+  ]
+}
