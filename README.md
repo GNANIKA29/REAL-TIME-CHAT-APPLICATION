@@ -12,6 +12,10 @@
 
 *MENTOR*: NEELA SANTOSH
 
+
+<img width="724" height="637" alt="Screenshot 2025-10-01 134627" src="https://github.com/user-attachments/assets/081752e8-3946-47d4-ac3e-45f305d222e4" />
+
+
 ---
 
 # 📌 Real-Time Chat Application (Frontend)
