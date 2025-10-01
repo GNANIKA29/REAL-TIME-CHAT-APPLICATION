@@ -111,6 +111,9 @@ Frontend default: http://localhost:5173
 
 Backend default: http://localhost:4000
 
-<img width="1840" height="873" alt="Screenshot 2025-10-01 123546" src="https://github.com/user-attachments/assets/1941fae8-f57c-409c-b0cd-49db35173880" />
-<img width="1848" height="879" alt="Screenshot 2025-10-01 125532" src="https://github.com/user-attachments/assets/275ea3d5-7e44-45a8-8840-6b496bbbc3e4" />
-<img width="1828" height="879" alt="Screenshot 2025-10-01 125932" src="https://github.com/user-attachments/assets/a5d0e2af-5b1b-4309-af55-f228a5d98b0e" />
+<img width="1840" height="873" alt="Screenshot 2025-10-01 123546" src="https://github.com/user-attachments/assets/e6be7ddc-13df-4d57-ad36-d7cccfe9406c" />
+
+<img width="1848" height="879" alt="Screenshot 2025-10-01 125532" src="https://github.com/user-attachments/assets/7f7ef546-e068-4c12-883b-ec804af2e9a1" />
+
+<img width="1828" height="879" alt="Screenshot 2025-10-01 125932" src="https://github.com/user-attachments/assets/a3c40650-a2a7-45b1-b07b-5d4797603dd3" />
+
